@@ -1,0 +1,228 @@
+.deg0 {
+    -webkit-transform: translate(6em);
+    -moz-transform: translate(6em);
+    -ms-transform: translate(6em);
+    -o-transform: translate(6em);
+    transform: translate(6em);
+  }
+  .rotateline0deg {
+    outline: 1px dashed black;
+    -webkit-transform: rotate(45deg) translate(17em) rotate(-45deg);
+    -moz-transform: rotate(45deg) translate(17em) rotate(-45deg);
+    -ms-transform: rotate(45deg) translate(17em) rotate(-45deg);
+    -o-transform: rotate(45deg) translate(17em) rotate(-45deg);
+    transform: rotate(45deg) translate(17em) rotate(-45deg);
+    width: 30%;
+    margin-left: 34px;
+}
+
+.rotateline45deg {
+  outline: 1px dashed black;
+  -webkit-transform: rotate(75deg) translate(12em) rotate(-75deg);
+  -moz-transform: rotate(75deg) translate(12em) rotate(-75deg);
+  -ms-transform: rotate(75deg) translate(12em) rotate(-75deg);
+  -o-transform: rotate(75deg) translate(12em) rotate(-75deg);
+  transform: rotate(75deg) translate(12em) rotate(-75deg);
+  width: 30%;
+  margin-left: -12px;
+  margin-top: 5px;
+}
+.rotateline90deg {
+  outline: 1px dashed black;
+  -webkit-transform: rotate(75deg) translate(12em) rotate(-75deg);
+  -moz-transform: rotate(75deg) translate(12em) rotate(-75deg);
+  -ms-transform: rotate(75deg) translate(12em) rotate(-75deg);
+  -o-transform: rotate(75deg) translate(12em) rotate(-75deg);
+  transform: rotate(75deg) translate(12em) rotate(-75deg);
+  width: 30%;
+  margin-left: -12px;
+  margin-top: 5px;
+}
+.rotateline90deg {
+  outline: 1px dashed black;
+  -webkit-transform: rotate(50deg) translate(21em) rotate(-5deg);
+  -moz-transform: rotate(50deg) translate(21em) rotate(-5deg);
+  -ms-transform: rotate(50deg) translate(21em) rotate(-5deg);
+  -o-transform: rotate(50deg) translate(21em) rotate(-5deg);
+  transform: rotate(50deg) translate(21em) rotate(-5deg);
+  width: 30%;
+  margin-left: -12px;
+  margin-top: 5px;
+}
+.rotateline135deg {
+  outline: 1px dashed black;
+  -webkit-transform: rotate(50deg) translate(21em) rotate(-5deg);
+  -moz-transform: rotate(50deg) translate(21em) rotate(-5deg);
+  -ms-transform: rotate(50deg) translate(21em) rotate(-5deg);
+  -o-transform: rotate(50deg) translate(21em) rotate(-5deg);
+  transform: rotate(50deg) translate(21em) rotate(-5deg);
+  width: 30%;
+  margin-left: -12px;
+  margin-top: 5px;
+}
+.rotateline135deg {
+  outline: 1px dashed black;
+  -webkit-transform: rotate(62deg) translate(20em) rotate(-28deg);
+  -moz-transform: rotate(62deg) translate(20em) rotate(-28deg);
+  -ms-transform: rotate(62deg) translate(20em) rotate(-28deg);
+  -o-transform: rotate(62deg) translate(20em) rotate(-28deg);
+  transform: rotate(62deg) translate(20em) rotate(28deg);
+  width: 30%;
+  margin-left: -12px;
+  margin-top: 5px;
+}
+.rotateline180deg {
+  outline: 1px dashed black;
+  -webkit-transform: rotate(62deg) translate(20em) rotate(-28deg);
+  -moz-transform: rotate(62deg) translate(20em) rotate(-28deg);
+  -ms-transform: rotate(62deg) translate(20em) rotate(-28deg);
+  -o-transform: rotate(62deg) translate(20em) rotate(-28deg);
+  transform: rotate(62deg) translate(20em) rotate(28deg);
+  width: 30%;
+  margin-left: -12px;
+  margin-top: 5px;
+}
+.rotateline180deg {
+  outline: 1px dashed black;
+  -webkit-transform: rotate(72deg) translate(17em) rotate(60deg);
+  -moz-transform: rotate(72deg) translate(17em) rotate(60deg);
+  -ms-transform: rotate(72deg) translate(17em) rotate(60deg);
+  -o-transform: rotate(72deg) translate(17em) rotate(60deg);
+  transform: rotate(72deg) translate(17em) rotate(60deg);
+  width: 30%;
+  margin-left: -12px;
+  margin-top: 5px;
+}
+.rotateline225deg {
+  outline: 1px dashed black;
+  -webkit-transform: rotate(72deg) translate(17em) rotate(60deg);
+  -moz-transform: rotate(72deg) translate(17em) rotate(60deg);
+  -ms-transform: rotate(72deg) translate(17em) rotate(60deg);
+  -o-transform: rotate(72deg) translate(17em) rotate(60deg);
+  transform: rotate(72deg) translate(17em) rotate(60deg);
+  width: 30%;
+  margin-left: -12px;
+  margin-top: 5px;
+}
+.rotateline225deg {
+  outline: 1px dashed black;
+  -webkit-transform: rotate(57deg) translate(9em) rotate(-190deg);
+  -moz-transform: rotate(57deg) translate(9em) rotate(-190deg);
+  -ms-transform: rotate(57deg) translate(9em) rotate(-190deg);
+  -o-transform: rotate(57deg) translate(9em) rotate(-190deg);
+  transform: rotate(57deg) translate(9em) rotate(-190deg);
+  width: 30%;
+  margin-left: -12px;
+  margin-top: 5px;
+}
+.rotateline270deg {
+  outline: 1px dashed black;
+  -webkit-transform: rotate(39deg) translate(12em) rotate(-129deg);
+  -moz-transform: rotate(39deg) translate(12em) rotate(-129deg);
+  -ms-transform: rotate(39deg) translate(12em) rotate(-129deg);
+  -o-transform: rotate(39deg) translate(12em) rotate(-129deg);
+  transform: rotate(39deg) translate(12em) rotate(-129deg);
+  width: 30%;
+  margin-left: -12px;
+  margin-top: -25px;
+}
+.rotateline315deg {
+  outline: 1px dashed black;
+  -webkit-transform: rotate(39deg) translate(12em) rotate(-129deg);
+  -moz-transform: rotate(39deg) translate(12em) rotate(-129deg);
+  -ms-transform: rotate(39deg) translate(12em) rotate(-129deg);
+  -o-transform: rotate(39deg) translate(12em) rotate(-129deg);
+  transform: rotate(39deg) translate(12em) rotate(-129deg);
+  width: 30%;
+  margin-left: -12px;
+  margin-top: -25px;
+}
+.rotateline315deg {
+  outline: 1px dashed black;
+  -webkit-transform: rotate(36deg) translate(17em) rotate(-82deg);
+  -moz-transform: rotate(36deg) translate(17em) rotate(-82deg);
+  -ms-transform: rotate(36deg) translate(17em) rotate(-82deg);
+  -o-transform: rotate(36deg) translate(17em) rotate(-82deg);
+  transform: rotate(36deg) translate(17em) rotate(-82deg);
+  width: 30%;
+  margin-left: -12px;
+  margin-top: -37px;
+}
+  /* 12em = half the width of the wrapper */
+  .lt-ie9 .deg0 {
+    margin-left: 10em;
+  }
+  
+  .deg45 {
+    -webkit-transform: rotate(45deg) translate(6em) rotate(-45deg);
+    -moz-transform: rotate(45deg) translate(6em) rotate(-45deg);
+    -ms-transform: rotate(45deg) translate(6em) rotate(-45deg);
+    -o-transform: rotate(45deg) translate(6em) rotate(-45deg);
+    transform: rotate(45deg) translate(6em) rotate(-45deg);
+  }
+ 
+  .lt-ie9 .deg45 {
+    margin: 6.485em;
+  }
+  .deg90 {
+    -webkit-transform: rotate(90deg) translate(6em) rotate(-90deg);
+    -moz-transform: rotate(90deg) translate(6em) rotate(-90deg);
+    -ms-transform: rotate(90deg) translate(6em) rotate(-90deg);
+    -o-transform: rotate(90deg) translate(6em) rotate(-90deg);
+    transform: rotate(90deg) translate(6em) rotate(-90deg);
+  }
+  .deg135 {
+    -webkit-transform: rotate(135deg) translate(6em) rotate(-135deg);
+    -moz-transform: rotate(135deg) translate(6em) rotate(-135deg);
+    -ms-transform: rotate(135deg) translate(6em) rotate(-135deg);
+    -o-transform: rotate(135deg) translate(6em) rotate(-135deg);
+    transform: rotate(135deg) translate(6em) rotate(-135deg);
+  }
+  
+  .lt-ie9 .deg135 {
+    margin: 6.485em -10.485em;
+  }
+  
+  .deg180 {
+    -webkit-transform: translate(-6em);
+    -moz-transform: translate(-6em);
+    -ms-transform: translate(-6em);
+    -o-transform: translate(-6em);
+    transform: translate(-6em);
+  }
+  
+  .lt-ie9 .deg180 {
+    margin-left: -14em;
+  }
+  
+  .deg225 {
+    -webkit-transform: rotate(225deg) translate(6em) rotate(-225deg);
+    -moz-transform: rotate(225deg) translate(6em) rotate(-225deg);
+    -ms-transform: rotate(225deg) translate(6em) rotate(-225deg);
+    -o-transform: rotate(225deg) translate(6em) rotate(-225deg);
+    transform: rotate(225deg) translate(6em) rotate(-225deg);
+  }
+  
+  .lt-ie9 .deg225 {
+    margin: -10.485em;
+  }
+  
+  .deg315 {
+    -webkit-transform: rotate(315deg) translate(6em) rotate(-315deg);
+    -moz-transform: rotate(315deg) translate(6em) rotate(-315deg);
+    -ms-transform: rotate(315deg) translate(6em) rotate(-315deg);
+    -o-transform: rotate(315deg) translate(6em) rotate(-315deg);
+    transform: rotate(315deg) translate(6em) rotate(-315deg);
+  }
+  
+  .lt-ie9 .deg315 {
+    margin: -10.485em 6.485em;
+  }
+  
+  .deg270 {
+    -webkit-transform: rotate(270deg) translate(6em) rotate(-270deg);
+    -moz-transform: rotate(270deg) translate(6em) rotate(-270deg);
+    -ms-transform: rotate(270deg) translate(6em) rotate(-270deg);
+    -o-transform: rotate(270deg) translate(6em) rotate(-270deg);
+    transform: rotate(270deg) translate(6em) rotate(-270deg);
+  }
